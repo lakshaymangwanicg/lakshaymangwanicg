@@ -1,15 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Lakshay Mangwani 👋
 
-<!--
-**lakshaymangwanicg/lakshaymangwanicg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+🎓 **B.Tech CSE (AI) Student** | 💻 **Aspiring AI & Software Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🌱 I’m currently studying computer science 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently pursuing **B.Tech in Computer Science & Engineering (AI)** at CodingGita.
+- 🛠️ I’m working on **APIs, Natural Language Processing (NLP)**, and core software development.
+- 🌱 Learning and expanding my knowledge in Data Structures, Algorithms, and Artificial Intelligence.
+- 💬 Ask me about Java, Python, Web Development, and Google Cloud Labs.
+
+---
+
+### 🎓 Qualifications & Education
+
+- **B.Tech in Computer Science & Engineering (AI)**  
+  *CodingGita* | 2026 – Present  
+  - Focus area: Artificial Intelligence, Software Engineering, and Practical Labs.
+
+- **Senior Secondary (Class XII)**  
+  - Stream: Science (PCM)
+
+- **Secondary School (Class X)**  
+  - General Academics
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Languages:** C, C++, Java, Python, JavaScript
+- **Web Development:** HTML5, CSS3, React, Node.js
+- **AI & Cloud:** Natural Language Processing (NLP), Google Cloud Platform / Google Skills Labs
+- **Developer Tools:** Git, GitHub, VS Code
+
+---
+
+### 📜 Certifications & Achievements
+- **Google Cloud Skills Boost:** Completed technical labs on APIs & Natural Language Processing (NLP).
+- digital marketing 
+
+---
+
+### 📬 Connect with Me
+
+- 💼 **LinkedIn:** 
+- 📧 **Email:** lakshaymangwani.cg@gmail.com
+- 🌐 **Portfolio:** 
