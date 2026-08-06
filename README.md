@@ -46,4 +46,8 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lakshay-mangwani-7a9bb5427
   
 - 📧 **Email:** lakshaymangwani.cg@gmail.com
-- 🌐 **Portfolio:** 
+- 🌐 **Portfolio:**
+
+<div>
+ ![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=lakshaymangwanicg&theme=androidstudio&leetcode=luckycg)
+</div>
