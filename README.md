@@ -43,6 +43,7 @@
 
 ### 📬 Connect with Me
 
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lakshay-mangwani-7a9bb5427
+  
 - 📧 **Email:** lakshaymangwani.cg@gmail.com
 - 🌐 **Portfolio:** 
