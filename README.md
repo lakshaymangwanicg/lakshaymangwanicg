@@ -49,5 +49,7 @@
 - 🌐 **Portfolio:**
 
 <div>
+ 
  ![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=lakshaymangwanicg&theme=androidstudio&leetcode=luckycg)
+ 
 </div>
