@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Tool
 
 - **Languages:** C, C++, Java, Python, JavaScript
 - **Web Development:** HTML5, CSS3, React, Node.js
